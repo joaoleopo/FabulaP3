@@ -2,7 +2,7 @@
 	<page background="bg_neve.png" soundtrack="song.mp3">
 
         <agent image="1.png" x="90" y="0" height="100" width="100" />
-        <agent text="T"
+        <agent x="175" y="200" text="Teste" />
   
     
   </page>
